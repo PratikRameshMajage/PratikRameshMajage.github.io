@@ -1,0 +1,23 @@
+body {
+    background-color: lavender;
+    max-width: 700px;
+    margin: auto;
+    contane
+    }
+    
+h1 {
+    color: navy;
+    margin-left: 20px;
+    }
+
+p {
+    color: indigo;
+    font-size: 20px;
+    font-weight: bold;
+}
+    
+h5{
+    color: dark;
+    font-size: 20px;
+    font-weight: bold;
+}
